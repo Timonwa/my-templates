@@ -24,7 +24,6 @@ a:hover,
 a:active,
 a:visited {
   text-decoration: none;
-  color: var(--main-color, black);
 }
 /** add pointer to inputs and make the font same as body*/
 input,
